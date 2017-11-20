@@ -15,6 +15,7 @@
 - [Computer Programming using GNU Smalltalk](http://stephane.ducasse.free.fr/FreeBooks/Gnu/ProgrammingUsingGnuSmalltalk.pdf)
 - [smalltalkrenaissance](https://smalltalkrenaissance.wordpress.com/resources/)
 - [Learn How To Program - Learning to program the Smalltalk way](https://medium.com/learn-how-to-program)
+- [Smalltalk Best Practice Patterns](https://www.tenlong.com.tw/products/9780134769042)
 
 
 ## Scheme IDE or Compiler
