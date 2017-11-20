@@ -26,8 +26,12 @@
 ## Scheme Resources
 
 - [SICP 中譯本](https://www.gitbook.com/book/sunqingyao/sicp-ch/details)
-- [The Little Schemer:遞歸與函數式的奧妙](https://www.tenlong.com.tw/products/9787121317255)
-
+- [The Little Schemer: 遞歸與函數式的奧妙 (中譯本)](https://www.tenlong.com.tw/products/9787121317255)
+- [The Little Schemer](http://www.ccs.neu.edu/home/matthias/BTLS/)
+- [The Seasoned Schemer](http://www.ccs.neu.edu/home/matthias/BTSS/)
+- [The Scheme Programming Language, Fourth Edition](https://www.scheme.com/tspl4/)
+- [How to Design Programs](http://www.htdp.org/)
+- [R6RS](http://www.r6rs.org/)
 
 ## Other
 
