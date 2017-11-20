@@ -14,6 +14,7 @@
 - [Smalltalk by Example](http://sdmeta.gforge.inria.fr/FreeBooks/ByExample/)
 - [Computer Programming using GNU Smalltalk](http://stephane.ducasse.free.fr/FreeBooks/Gnu/ProgrammingUsingGnuSmalltalk.pdf)
 - [smalltalkrenaissance](https://smalltalkrenaissance.wordpress.com/resources/)
+- [Learn How To Program - Learning to program the Smalltalk way](https://medium.com/learn-how-to-program)
 
 
 ## Scheme IDE or Compiler
