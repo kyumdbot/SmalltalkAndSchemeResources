@@ -22,6 +22,7 @@
 
 - [Racket](https://racket-lang.org/)
 - [CHICKEN Scheme](http://www.call-cc.org/)
+- [Chez Scheme](https://cisco.github.io/ChezScheme/)
 
 ## Scheme Resources
 
