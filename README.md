@@ -16,7 +16,7 @@
 - [smalltalkrenaissance](https://smalltalkrenaissance.wordpress.com/resources/)
 
 
-## Scheme IDE Or Compiler
+## Scheme IDE or Compiler
 
 - [Racket](https://racket-lang.org/)
 - [CHICKEN Scheme](http://www.call-cc.org/)
