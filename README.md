@@ -27,6 +27,7 @@
 ## Scheme Resources
 
 - [SICP 中譯本](https://www.gitbook.com/book/sunqingyao/sicp-ch/details)
+- [SICP 公開課 (中英雙語字幕)](https://www.youtube.com/playlist?list=PLkEwH_Z2WOlppy8oUfrGwFVlOuKyo3RO_)
 - [The Little Schemer: 遞歸與函數式的奧妙 (中譯本)](https://www.tenlong.com.tw/products/9787121317255)
 - [The Little Schemer](http://www.ccs.neu.edu/home/matthias/BTLS/)
 - [The Seasoned Schemer](http://www.ccs.neu.edu/home/matthias/BTSS/)
