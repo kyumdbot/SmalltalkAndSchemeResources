@@ -13,7 +13,7 @@
 - [Smalltalk 4 You](http://www.jarober.com/blog/st4u.ssp)
 - [Smalltalk by Example](http://sdmeta.gforge.inria.fr/FreeBooks/ByExample/)
 - [Computer Programming using GNU Smalltalk](http://stephane.ducasse.free.fr/FreeBooks/Gnu/ProgrammingUsingGnuSmalltalk.pdf)
-- [smalltalkrenaissance](https://smalltalkrenaissance.wordpress.com/resources/)
+- [smalltalk renaissance](https://smalltalkrenaissance.wordpress.com/resources/)
 - [Learn How To Program - Learning to program the Smalltalk way](https://medium.com/learn-how-to-program)
 - [Smalltalk Best Practice Patterns](https://www.tenlong.com.tw/products/9780134769042)
 
