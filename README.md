@@ -38,4 +38,6 @@
 ## Other
 
 - [Lisp, Smalltalk, and the Power of Symmetry](https://medium.com/smalltalk-talk/lisp-smalltalk-and-the-power-of-symmetry-8bd96aaa0c0c)
+- [Why Pharo Might be the Future of Software Development](https://medium.com/smalltalk-talk/pharo-the-future-of-software-development-1eff6240c60b)
+
 
