@@ -16,6 +16,7 @@
 - [smalltalk renaissance](https://smalltalkrenaissance.wordpress.com/resources/)
 - [Learn How To Program - Learning to program the Smalltalk way](https://medium.com/learn-how-to-program)
 - [Smalltalk Best Practice Patterns](https://www.tenlong.com.tw/products/9780134769042)
+- [Getting The Message: The Essentials of Message-Oriented Programming with Smalltalk](https://web.archive.org/web/20150908201317/http://www.smalltalk.org/articles/article_20100320_a3_Getting_The_Message.html)
 
 
 ## Scheme IDE or Compiler
@@ -40,6 +41,4 @@
 - [Lisp, Smalltalk, and the Power of Symmetry](https://medium.com/smalltalk-talk/lisp-smalltalk-and-the-power-of-symmetry-8bd96aaa0c0c)
 - [Why Pharo Might be the Future of Software Development](https://medium.com/smalltalk-talk/pharo-the-future-of-software-development-1eff6240c60b)
 - [Concerning Pharo](https://medium.com/concerning-pharo)
-- [Getting The Message: The Essentials of Message-Oriented Programming with Smalltalk](https://web.archive.org/web/20150908201317/http://www.smalltalk.org/articles/article_20100320_a3_Getting_The_Message.html)
-
 
