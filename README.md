@@ -42,4 +42,5 @@
 - [Why Pharo Might be the Future of Software Development](https://medium.com/smalltalk-talk/pharo-the-future-of-software-development-1eff6240c60b)
 - [Concerning Pharo](https://medium.com/concerning-pharo)
 - [Pharo PI: Working with Pharo on the Raspberry Pi](https://medium.com/concerning-pharo/pharo-pi-9eef257b6a21)
+- [7 minutes of Pharo Smalltalk for Rubyists](https://www.youtube.com/watch?v=HOuZyOKa91o)
 
