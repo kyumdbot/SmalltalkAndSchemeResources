@@ -9,7 +9,7 @@
 - [Pharo Books](http://files.pharo.org/books/)
 - [Pharo MOOC](http://files.pharo.org/mooc/)
 - [Pharo MOOC (New)](https://www.fun-mooc.fr/courses/course-v1:inria+41010+session02/about)
-- [Pharo Syntax cheat sheet (All the syntax and model explained on two pages)](http://files.pharo.org/media/pharoCheatSheet.pdf)
+- [Pharo syntax cheat sheet (All the syntax and model explained on two pages)](http://files.pharo.org/media/pharoCheatSheet.pdf)
 - [Learn Smalltalk with Prof Stef](http://amber-lang.net/learn.html)
 - [Smalltalk 4 You](http://www.jarober.com/blog/st4u.ssp)
 - [Smalltalk by Example](http://sdmeta.gforge.inria.fr/FreeBooks/ByExample/)
