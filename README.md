@@ -9,6 +9,7 @@
 - [Pharo Books](http://books.pharo.org/)
 - [Pharo MOOC](http://mooc.pharo.org/)
 - [Pharo MOOC (New)](https://www.fun-mooc.fr/courses/course-v1:inria+41010+session02/about)
+- [Object-Oriented Programming, Design with TDD in Pharo](http://lectures.pharo.org/)
 - [Pharo Syntax Cheat Sheet (All the syntax and model explained on two pages)](http://files.pharo.org/media/pharoCheatSheet.pdf)
 - [Learn Smalltalk with Prof Stef](http://amber-lang.net/learn.html)
 - [Smalltalk 4 You](http://www.jarober.com/blog/st4u.ssp)
